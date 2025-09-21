@@ -1,6 +1,6 @@
 
 / assets/index.js
-
+console.log("index.js loaded")
 const form = document.getElementById('task-form');
 const input = document.getElementById('task-input');
 const list = document.getElementById('task-list');
