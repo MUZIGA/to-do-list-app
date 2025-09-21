@@ -1,0 +1,34 @@
+
+To Do List Application
+
+A responsive and interactive task management app built with HTML5, Tailwind CSS, and JavaScript. It allows users to add, complete, and delete tasks with persistent data storage using localStorage.
+Features
+
+### Core Features
+- Add Tasks
+- Mark Complete/Incomplete
+- Delete Tasks
+- Persistent Storage with localStorage
+
+### Optional Enhancements (Coming Soon)
+- Inline Task Editing
+- Dark Mode Toggle
+- Priority Levels
+- Task Categories
+- Search & Filtering
+
+### Tecnologies Used
+
+- HTML5 (Semantic Structure)
+- Tailwind CSS (Responsive Design)
+- JavaScript (DOM Manipulation & Event Handling)
+- LocalStorage (Data Persistence)
+
+##  Folder Structure
+to-do-list-app
+index.html
+README.md
+assets
+index.css
+index.js
+image
